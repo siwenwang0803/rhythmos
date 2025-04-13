@@ -60,7 +60,7 @@ Recommended entry: `/onboarding`
 
 ## 🙏 Author
 
-Built with presence and resilience by [YourName].  
+Built with presence and resilience by Steven Wang.  
 DM me to talk rhythm, tone, feedback, or join the journey.  
 CRE is not just content. It’s cognition × rhythm × expression.
 
