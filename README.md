@@ -68,4 +68,9 @@ CRE is not just content. It’s cognition × rhythm × expression.
 
 > Rhythm is not something you track.  
 > Rhythm is something you return to.
+---
+
+> You don’t need to do everything today.  
+> You just need to enter the rhythm.  
+> RhythmOS doesn’t want your performance. It wants your presence.
 
